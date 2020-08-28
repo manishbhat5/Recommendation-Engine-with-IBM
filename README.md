@@ -10,5 +10,11 @@ III. User-User Based Collaborative Filtering
 IV.  Matrix Factorization
 V.   Extras & Concluding
 
+## Description of Files
+I. Recommendation Engine - Contains the Python notebook of the whole project
+II. data - Contains two CSV files:
+           - articles_community - 
+           - user_item_interactions - 
+
 ## How to use
 Clone the repository, download the datasets, Python notebook named 'Recommendations_with_IBM.ipynb', and simply run it.
