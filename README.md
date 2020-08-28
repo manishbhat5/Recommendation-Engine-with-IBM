@@ -11,4 +11,4 @@ IV.  Matrix Factorization
 V.   Extras & Concluding
 
 ## How to use
-Just 
+Clone the repository, download the datasets, Python notebook named 'Recommendations_with_IBM.ipynb', and simply run it.
