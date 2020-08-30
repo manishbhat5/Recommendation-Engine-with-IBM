@@ -1,7 +1,7 @@
 # Recommendation-Engine
 
 ## Introduction
-This repo contains my first hands-on experience in developing a Recommendation engine using IBM Watson Studio dataset. The goal is to recommend the articles to the user using varius types of Recommendation engines that I studied while pursuing my Data Science Nanodegree from Udacity.
+This repo contains my first hands-on experience in developing a Recommendation engine using IBM Watson Studio dataset. The goal is to recommend the articles to the user using various types of Recommendation engines that I studied while pursuing my Data Science Nanodegree from Udacity.
 
 ## Contents
 - I.   Exploratory Data Analysis
